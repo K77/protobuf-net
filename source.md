@@ -1,0 +1,1 @@
+The source for protobuf-net is now hosted on [github](https://github.com/mgravell/protobuf-net). Old SVN links may or may not continue to work, but **will not be maintained**.

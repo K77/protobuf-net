@@ -1,0 +1,1 @@
+[Please report issues on github](https://github.com/mgravell/protobuf-net/issues). An archive of old issues is [available here](https://code.google.com/p/protobuf-net/issues/list).

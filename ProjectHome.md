@@ -1,0 +1,1 @@
+Relocated: https://github.com/mgravell/protobuf-net

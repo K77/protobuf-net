@@ -1,0 +1,2 @@
+﻿#labels Featured
+This page has been archived to [changehistory\_archive](changehistory_archive.md). More recent release notes are maintained in the [Nuget Package](http://nuget.org/packages/protobuf-net/)

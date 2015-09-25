@@ -1,0 +1,1 @@
+Older downloads are [available here](https://code.google.com/p/protobuf-net/downloads/list), but I recommend using the [NuGet package](https://www.nuget.org/packages/protobuf-net) instead.
